@@ -28,7 +28,9 @@ There is currently no data on total or remaining costs displayed, but I expect i
 
 **_Updated Billing Report_**
 
+After checking back the next day, the total cost of running the VM was $0.02 cents. 
 
+<img width="952" alt="image" src="https://github.com/user-attachments/assets/3e9d3347-8926-4ba2-9a04-71087539d8e1">
 
 
 ## Azure ##
@@ -69,12 +71,18 @@ Like GCP, Azure does need some time before displaying the cost overview data.
 
 **_Updated Billing Report_**
 
+After checking back the next day, the total cost of running the VM was $0.26.
+
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/83bdf35f-1e14-4c63-9fbf-7e71706253aa">
+
 
 ## Comparison Overview ##
 
 GCP was much more user-friendly, with everything easy to find. Azure was trickier; after deploying the VM, I had to navigate around to find the stop button in the VM overview. 
 
 Based on the initial estimates, Azure seems cheaper than GCP, with Azure at *$6.13/month* and GCP at *$7.83/month*. Despite being harder to navigate, Azure offers more size options which allows users to have a greater choice in managing their budget.
+
+After checking back the next day, GCP was actually cheaper than Azure, with GCP costing $0.02 and Azure costing $0.26. Both VMs ran for about 3 minutes, so I'm not sure why Azure costs more. 
 
 
 
